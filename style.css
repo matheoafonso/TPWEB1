@@ -1,0 +1,73 @@
+div {
+	text-align:center;
+	}
+
+div#bandeau {
+	width:600px;
+	height:50px;
+	background-color:#3cff00;
+	}
+div#contenu {
+	width:600px;
+	height:400px;
+	background-color:#fbff00;
+	}
+div#piedpage {
+	width:600px;
+	height:50px;
+	background-color:#ff0000;
+	}
+div#menu {
+        float:left;
+        width:100px;
+        height:400px;
+        background-color:#FF6699;
+        }
+div#menuhaut {
+            width:100px;
+            height:200px;
+            background-color:#66CC33;
+            }
+div#menubas {
+            width:100px;
+            height:200px;
+            background-color:#CC99CC;
+            }
+div#blocnews {
+            float:right;
+            width:150px;
+            height:150px;
+            background-color:#FF3300;
+            }
+.montexte {
+                color: blue;
+                font-size: 20px;
+            }
+.rouge {
+                color: red;
+                font-size: 30px;
+            }
+            
+.bleu {
+                color: blue;
+                font-size: 20px;
+            }
+table {
+                border-collapse: collapse;
+            }
+            
+table td {
+                font-size: 15px;
+                color: green;
+            }
+            
+.middle-table td {
+                font-size: 15px;
+                color: blue;
+            }
+            
+.rouge {
+                color: red;
+            }
+            
+            
